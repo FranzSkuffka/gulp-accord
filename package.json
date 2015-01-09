@@ -15,7 +15,7 @@
   "dependencies": {
     "map-stream": "0.1.x",
     "gulp-util": "3.x",
-    "accord": "0.12.x"
+    "accord": "FranzSkuffka/accord"
   },
   "devDependencies": {
     "coffee-script": "1.8.x",
